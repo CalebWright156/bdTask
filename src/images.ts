@@ -1,3 +1,5 @@
+// Thought I'd use all the images so I thought this was the most efficient was of seperating the concerns
+
 import BarkerPortal from '../src/assets/BarkerPortal.jpg'
 import RedSeal from '../src/assets/RedSeal.jpg'
 import Moxion from '../src/assets/Moxion.jpg'

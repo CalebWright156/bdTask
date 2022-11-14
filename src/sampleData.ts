@@ -1,5 +1,5 @@
 import Images from '../src/images'
-
+// This was the mock database I was referring to. It is an array of objects that uses template literals to get the images needed for the project card image props
 export const ProjectData = [
     {
         title: 'School Portal',
