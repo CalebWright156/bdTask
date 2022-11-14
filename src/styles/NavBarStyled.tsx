@@ -6,6 +6,6 @@ export const NavBarStyled = styled.div`
     height: 6vh;
     align-items: center;
     padding: 1rem 2rem;
-    padding-bottom: 6rem;
+    padding-bottom: 4rem;
 
 `
